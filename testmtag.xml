@@ -15,11 +15,19 @@
         </author>
     </info>
     <equation>
-        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
-            <m:msqrt>
-                <m:mn>123123</m:mn>
-            </m:msqrt>
-        </m:math>
+        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+            <mml:msqrt>
+                <mml:mn>123123</mml:mn>
+            </mml:msqrt>
+            <mml:mi>a</mml:mi>
+        </mml:math>
+    </equation>
+    <equation>
+        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+            <mml:msqrt>
+                <mml:mn>23432432</mml:mn>
+            </mml:msqrt>
+        </mml:math>
     </equation>
     <sect1>
         <title/>
