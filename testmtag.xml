@@ -14,6 +14,13 @@
             <email/>
         </author>
     </info>
+    <equation>
+        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+            <m:msqrt>
+                <m:mn>123123</m:mn>
+            </m:msqrt>
+        </m:math>
+    </equation>
     <sect1>
         <title/>
         <para/>
